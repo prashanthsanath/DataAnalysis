@@ -28,15 +28,15 @@ It uses the sales transactions to study the data and display information to high
 
 - Summarize the project requirement to understand the requirement so as to develop a solution that can be most relevant and answers all the questions. This is done using AIMS grid, which is a project management tool used to divide the project execution in 4 parts to get a holistic view of the project and its purpose. We do this for our current project and its indicated as seen below.
 
-![image.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/AIMSGRID.png)
+![aimsgrid.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/AIMSGRID.png)
 
 
 - Project plan and flow in a typical company for this type of a project can be similar to the one below. This image is used to understand the project teams involved and their responsibilities.
-![image-3.png](attachment:image-3.png)
+![projectplan.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/ProjectPlan.png)
 
 - Data modelling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. For our Project we use the star schema to establish relationships between various table entities.A star schema is a database organizational structure optimized for use in a data warehouse or business intelligence that uses a single large fact table to store transactional or measured data, and one or more smaller dimensional tables that store attributes about the data.
-![image-5.png](attachment:image-5.png)
-![image-6.png](attachment:image-6.png)
+![starschema1.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/StartSchema.png)
+![starschema2.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/StartSchema2.png)
 
 
 ## Usage
