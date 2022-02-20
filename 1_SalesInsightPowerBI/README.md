@@ -30,10 +30,8 @@ It uses the sales transactions to study the data and display information to high
 
 ![aimsgrid.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/AIMSGRID.png)
 
-
 - Project plan and flow in a typical company for this type of a project can be similar to the one below. This image is used to understand the project teams involved and their responsibilities.
 ![projectplan.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/ProjectPlan.png)
-
 - Data modelling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. For our Project we use the star schema to establish relationships between various table entities.A star schema is a database organizational structure optimized for use in a data warehouse or business intelligence that uses a single large fact table to store transactional or measured data, and one or more smaller dimensional tables that store attributes about the data.
 ![starschema1.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/StartSchema.png)
 ![starschema2.png](https://github.com/prashanthsanath/DataAnalysis/blob/main/1_SalesInsightPowerBI/images/StartSchema2.png)
