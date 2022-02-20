@@ -130,4 +130,5 @@ To do:
 
 - This project was inspired by Data Anlalysis field and the colorful Power BI dashboard. 
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=hhZ62IlTxYs).
-- Many thanks to Dhaval Patel (from codebasics) and Hemanand for creating this course and provinding the data.
+- Many thanks to Dhaval Patel (from codebasics) and Hemanand for creating this course and providing the data.
+- Thanks to Rita Łyczywek (from bulldogjob) for the README template. 
